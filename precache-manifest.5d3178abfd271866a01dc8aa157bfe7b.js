@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f9aea22b2f03b07df9de56bbd57240cd",
+    "revision": "33c56c6c17ec8caf212e57d59fd8fe56",
     "url": "/PFolio/index.html"
   },
   {
-    "revision": "0895e22b34f50e9504bd",
-    "url": "/PFolio/static/css/main.f77d7a38.chunk.css"
+    "revision": "1f365a1f6b6882b45cf4",
+    "url": "/PFolio/static/css/main.4eb974db.chunk.css"
   },
   {
-    "revision": "fe6ba093163001d5f2e3",
-    "url": "/PFolio/static/js/2.a9eb2ed6.chunk.js"
+    "revision": "d40f1dc452c7aa361ee2",
+    "url": "/PFolio/static/js/2.802c1eb9.chunk.js"
   },
   {
-    "revision": "c97fb91e7dd1c7b19ae67fb152a2e6b2",
-    "url": "/PFolio/static/js/2.a9eb2ed6.chunk.js.LICENSE.txt"
+    "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
+    "url": "/PFolio/static/js/2.802c1eb9.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "0895e22b34f50e9504bd",
-    "url": "/PFolio/static/js/main.55721fc8.chunk.js"
+    "revision": "1f365a1f6b6882b45cf4",
+    "url": "/PFolio/static/js/main.9b68dd79.chunk.js"
   },
   {
     "revision": "a623957e406771c9a466",
