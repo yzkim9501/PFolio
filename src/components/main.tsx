@@ -17,12 +17,9 @@ function Main() {
 		<div className="root">
 			<Header />
 			{greeting.view && <Hello />}
+			{blogs.view && <Blog />}
 			{skills.view && <Skill />}
 			{experience.view && <Experience />}
-			{openSourceProjects.view && <OpenSource />}
-			{projects.view && <Project />}
-			{achievements.view && <Achievement />}
-			{blogs.view && <Blog />}
 			{contactInfo.view && <Contact />}
 			<Footer />
 			<Top />
