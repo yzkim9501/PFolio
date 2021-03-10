@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "238fc2988f1ee445fb25027a97f74e2c",
+    "revision": "5f4d0093fada1589ccaea49c2531d9ab",
     "url": "/PFolio/index.html"
   },
   {
-    "revision": "b83d542649c1af3c3729",
+    "revision": "977f6368aab57c7b6055",
     "url": "/PFolio/static/css/main.4eb974db.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/PFolio/static/js/2.802c1eb9.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "b83d542649c1af3c3729",
-    "url": "/PFolio/static/js/main.8c11fa17.chunk.js"
+    "revision": "977f6368aab57c7b6055",
+    "url": "/PFolio/static/js/main.a7db127a.chunk.js"
   },
   {
     "revision": "a623957e406771c9a466",
@@ -28,7 +28,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/PFolio/static/media/sad-icon.b88924d5.png"
   },
   {
-    "revision": "b9d7d448a09d6aacb45d21aab2c6fd53",
-    "url": "/PFolio/static/media/your photo.b9d7d448.png"
+    "revision": "8eea9d5d9c9acb8d57c0850ebd983adf",
+    "url": "/PFolio/static/media/your photo.8eea9d5d.png"
   }
 ]);
