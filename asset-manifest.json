@@ -1,24 +1,23 @@
 {
   "files": {
     "main.css": "/PFolio/static/css/main.4eb974db.chunk.css",
-    "main.js": "/PFolio/static/js/main.6359b8e4.chunk.js",
-    "main.js.map": "/PFolio/static/js/main.6359b8e4.chunk.js.map",
+    "main.js": "/PFolio/static/js/main.1ec9e44a.chunk.js",
+    "main.js.map": "/PFolio/static/js/main.1ec9e44a.chunk.js.map",
     "runtime-main.js": "/PFolio/static/js/runtime-main.b10a1cca.js",
     "runtime-main.js.map": "/PFolio/static/js/runtime-main.b10a1cca.js.map",
-    "static/js/2.802c1eb9.chunk.js": "/PFolio/static/js/2.802c1eb9.chunk.js",
-    "static/js/2.802c1eb9.chunk.js.map": "/PFolio/static/js/2.802c1eb9.chunk.js.map",
+    "static/js/2.5460271d.chunk.js": "/PFolio/static/js/2.5460271d.chunk.js",
+    "static/js/2.5460271d.chunk.js.map": "/PFolio/static/js/2.5460271d.chunk.js.map",
     "index.html": "/PFolio/index.html",
-    "precache-manifest.322f6d57ca57ac3eddf40f5966f08006.js": "/PFolio/precache-manifest.322f6d57ca57ac3eddf40f5966f08006.js",
+    "precache-manifest.dfad066c954916d2bb84defc163fb9d2.js": "/PFolio/precache-manifest.dfad066c954916d2bb84defc163fb9d2.js",
     "service-worker.js": "/PFolio/service-worker.js",
     "static/css/main.4eb974db.chunk.css.map": "/PFolio/static/css/main.4eb974db.chunk.css.map",
-    "static/js/2.802c1eb9.chunk.js.LICENSE.txt": "/PFolio/static/js/2.802c1eb9.chunk.js.LICENSE.txt",
-    "static/media/sad-icon.png": "/PFolio/static/media/sad-icon.b88924d5.png",
-    "static/media/your photo.png": "/PFolio/static/media/your photo.8eea9d5d.png"
+    "static/js/2.5460271d.chunk.js.LICENSE.txt": "/PFolio/static/js/2.5460271d.chunk.js.LICENSE.txt",
+    "static/media/your photo.png": "/PFolio/static/media/your photo.b9d7d448.png"
   },
   "entrypoints": [
     "static/js/runtime-main.b10a1cca.js",
-    "static/js/2.802c1eb9.chunk.js",
+    "static/js/2.5460271d.chunk.js",
     "static/css/main.4eb974db.chunk.css",
-    "static/js/main.6359b8e4.chunk.js"
+    "static/js/main.1ec9e44a.chunk.js"
   ]
 }
