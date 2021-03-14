@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f4b21fac1189e4949e9d7bc895988078",
+    "revision": "17131098a8c868f25f7f936a4f064a35",
     "url": "/PFolio/index.html"
   },
   {
-    "revision": "faf4b760cbd372340f90",
+    "revision": "d1fec77ede73c1366c58",
     "url": "/PFolio/static/css/main.4eb974db.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/PFolio/static/js/2.5460271d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "faf4b760cbd372340f90",
-    "url": "/PFolio/static/js/main.8d16c681.chunk.js"
+    "revision": "d1fec77ede73c1366c58",
+    "url": "/PFolio/static/js/main.2b605dd4.chunk.js"
   },
   {
     "revision": "a623957e406771c9a466",

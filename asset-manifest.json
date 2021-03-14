@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/PFolio/static/css/main.4eb974db.chunk.css",
-    "main.js": "/PFolio/static/js/main.8d16c681.chunk.js",
-    "main.js.map": "/PFolio/static/js/main.8d16c681.chunk.js.map",
+    "main.js": "/PFolio/static/js/main.2b605dd4.chunk.js",
+    "main.js.map": "/PFolio/static/js/main.2b605dd4.chunk.js.map",
     "runtime-main.js": "/PFolio/static/js/runtime-main.b10a1cca.js",
     "runtime-main.js.map": "/PFolio/static/js/runtime-main.b10a1cca.js.map",
     "static/js/2.5460271d.chunk.js": "/PFolio/static/js/2.5460271d.chunk.js",
     "static/js/2.5460271d.chunk.js.map": "/PFolio/static/js/2.5460271d.chunk.js.map",
     "index.html": "/PFolio/index.html",
-    "precache-manifest.51dc52998c6d108d42bd15ec2f1d77e7.js": "/PFolio/precache-manifest.51dc52998c6d108d42bd15ec2f1d77e7.js",
+    "precache-manifest.749d6257762a93d15180d668713e068b.js": "/PFolio/precache-manifest.749d6257762a93d15180d668713e068b.js",
     "service-worker.js": "/PFolio/service-worker.js",
     "static/css/main.4eb974db.chunk.css.map": "/PFolio/static/css/main.4eb974db.chunk.css.map",
     "static/js/2.5460271d.chunk.js.LICENSE.txt": "/PFolio/static/js/2.5460271d.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.b10a1cca.js",
     "static/js/2.5460271d.chunk.js",
     "static/css/main.4eb974db.chunk.css",
-    "static/js/main.8d16c681.chunk.js"
+    "static/js/main.2b605dd4.chunk.js"
   ]
 }
